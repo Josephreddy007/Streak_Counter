@@ -1,0 +1,33 @@
+#countlabel {
+    font-size: 100px;
+    text-align: center;
+    display: block;
+}
+
+* {
+    text-align: center;
+    font-size: 50px;
+    border-radius: 5%;
+    padding: 5px;
+    background-color: lightblue;
+}
+
+#decreasebtn {
+    background-color: red;
+}
+
+#resetbtn {
+    background-color: yellow;
+}
+
+#increasebtn {
+    background-color: green;
+}
+
+div {
+    margin-top: 5%;
+}
+
+h1 {
+    font-size: 100px;
+}
